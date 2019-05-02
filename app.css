@@ -1,6 +1,35 @@
 body{
     background-image: url("https://freepngimg.com/thumb/cat/35859-3-black-cat-file.png");
-    background-size: 100px;
+    background-size: 200px;
     background-color: aquamarine;
     background-repeat: repeat ;
+    /* animation: michi 5s infinite alternate; */
+ }
+
+ .cont{
+    background: rgba(0, 0, 0, .5);
+    width: 90vw;
+    height: 90vh;
+    margin: auto;
+    display: none;
+ }
+/* 
+ @keyframes michi {
+     0%  { background-position-x: 0%; background-position-y: 100%; background-size: 0px;}
+     100% { background-position-x: 100%; background-position-y: 0%; background-size: 2500px;}
+ } */
+
+ .titole{
+     background: red;
+     font-size: 3em;
+     text-shadow: 3px 3px 0 #444;
+     color: white;
+     text-align: center;
+ }
+
+ #cub{
+     background: black;
+     width: 15px;
+     height: 15px;
+     position: fixed;
  }
