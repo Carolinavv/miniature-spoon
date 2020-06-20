@@ -1,6 +1,5 @@
 # miniature-spoon
 
 <p> 
-Para hacer cualquier cosa :cat:
-
+:cat: Michi :cat:
 </p>

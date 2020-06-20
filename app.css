@@ -3,7 +3,7 @@ body{
     background-size: 200px;
     background-color: aquamarine;
     background-repeat: repeat ;
-    /* animation: michi 5s infinite alternate; */
+     animation: michi 5s infinite alternate; 
  }
 
  .cont{
@@ -13,11 +13,11 @@ body{
     margin: auto;
     display: none;
  }
-/* 
+
  @keyframes michi {
      0%  { background-position-x: 0%; background-position-y: 100%; background-size: 0px;}
      100% { background-position-x: 100%; background-position-y: 0%; background-size: 2500px;}
- } */
+ }
 
  .titole{
      background: red;
